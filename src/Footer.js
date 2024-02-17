@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
-    <div className='flex justify-between items-center p-4 py-4 md:py-6 bg-gold mt-14'>
+    <div className='flex justify-between items-center p-4 py-4 md:py-6 bg-gold mt-20 '>
       <div className='text-white uppercase'>&copy; 2024 Mannie's Pancakes</div>
       <div className='uppercase text-white hidden md:block'>{'\u0040'} o.a.u campus, ile-ife</div>
       <div>
